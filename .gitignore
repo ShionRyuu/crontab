@@ -1,2 +1,9 @@
 # dir
+.eunit
+.idea
+.rebar
 deps
+
+# file
+ebin/crontab.app
+*.iml
